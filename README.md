@@ -21,15 +21,6 @@ BLEACHGAS is a Slack slash command bot built on Google Apps Script. It reads the
 
 4. The response is sent back to Slack as an in-channel message via the `response_url`.
 
-### Repository structure
-
-```
-src/
-└── main.js   # GAS source: doPost handler and utility functions
-```
-
-The project is managed and deployed with [google/clasp](https://github.com/google/clasp).
-
 ## Links
 
 - [ブリーチ巻頭ポエム (Spreadsheet)](https://docs.google.com/spreadsheets/d/1Lo3sj4rmw15TmU5mPsU2z4YUuaFpAlhKIkWjOzoRwfE)
